@@ -1,5 +1,5 @@
 # Log In With GitHub
-A _social login_ is single sign-on for end users. You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins.
+A _social login_ is single sign-on for end users. You can use your existing login credentials from GitHub (social network provider) to log in to CommunityBridge rather than creating a CommunityBridge account. During your initial login, you enter your GitHub credentials to authenticate your GitHub account. Subsequent logins do not require you to enter your credentials⏤you simply click **Login with GitHub**. This one-click approach simplifies your logins. This is a test change.
 
 ## Initial Login
 
